@@ -1,0 +1,6 @@
+co\unicauca\eattogo\commons\domain\Plate.class
+co\unicauca\eattogo\commons\infra\Protocol.class
+co\unicauca\eattogo\commons\infra\Parameter.class
+co\unicauca\eattogo\commons\domain\EnumCategory.class
+co\unicauca\eattogo\commons\infra\JsonError.class
+co\unicauca\eattogo\commons\infra\Utilities.class
